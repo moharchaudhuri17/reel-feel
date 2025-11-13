@@ -8,7 +8,7 @@
 
 Ever wondered which movie matches your current mood? This app analyzes emotional content from **critic reviews**, **user ratings**, and **YouTube trailers** to recommend films that resonate with how you're feeling right now.
 
-[**🚀 Try the Live Demo**](https://your-app.streamlit.app)
+[**🚀 Try the Live Demo**](https://reel-feel.streamlit.app/)
 
 ---
 
