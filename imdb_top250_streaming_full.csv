@@ -1,0 +1,251 @@
+movie,year,imdb_rating,imdb_votes,runtime_min,genres,Netflix,Amazon Prime,Hulu,Disney+,HBO Max,Apple TV+,Paramount+,total_platforms,primary_platform,all_platforms,price_tier
+12 ANGRY MEN,2021,8.4,1036213,104,War,Yes,No,Yes,No,No,No,Yes,3,Netflix,"Netflix, Paramount+, Hulu",Subscription
+12 YEARS A SLAVE,1953,8.8,233306,176,"Western, Adventure, Action",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Free with Ads
+12TH FAIL,1951,8.8,2454032,117,Adventure,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+1917,2023,8.8,127257,179,"Romance, Thriller, Animation",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+2001: A SPACE ODYSSEY,1994,9.2,1511779,133,"Comedy, Thriller",Yes,No,No,No,Yes,No,Yes,3,HBO Max,"HBO Max, Netflix, Paramount+",Free with Ads
+3 IDIOTS,1951,9.1,1209480,138,Crime,Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Free with Ads
+A BEAUTIFUL MIND,1998,8.5,2415426,158,Western,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+A CLOCKWORK ORANGE,2020,8.9,292201,169,"Horror, Thriller",No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Subscription
+A SEPARATION,1977,8.1,1265905,100,Fantasy,Yes,Yes,No,No,Yes,No,No,3,Netflix,"Netflix, HBO Max, Amazon Prime",Buy ($14.99)
+A SILENT VOICE: THE MOVIE,2021,8.5,1219786,136,Crime,No,No,No,No,Yes,Yes,Yes,3,Apple TV+,"Apple TV+, Paramount+, HBO Max",Free with Ads
+ALIEN,2017,8.9,785359,171,Adventure,No,Yes,No,Yes,No,No,No,2,Amazon Prime,"Amazon Prime, Disney+",Buy ($14.99)
+ALIENS,1988,8.9,334620,124,"War, Adventure, Thriller",Yes,Yes,Yes,No,No,No,No,3,Hulu,"Hulu, Netflix, Amazon Prime",Subscription
+ALL ABOUT EVE,1944,8.3,2478925,130,"Sci-Fi, Action",No,No,Yes,Yes,No,Yes,No,3,Disney+,"Disney+, Hulu, Apple TV+",Rent ($3.99)
+AMADEUS,1967,8.6,1210987,173,"Romance, Mystery",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Subscription
+AMERICAN BEAUTY,1971,8.6,1775207,161,"Sci-Fi, War, Horror",Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Rent ($3.99)
+AMERICAN HISTORY X,1968,8.1,559901,107,"Animation, Action, Biography",Yes,No,Yes,No,No,No,No,2,Netflix,"Netflix, Hulu",Subscription
+AMÉLIE,2020,8.5,2063143,110,"Romance, Horror, Action",No,No,Yes,No,Yes,No,No,2,HBO Max,"HBO Max, Hulu",Subscription/Rent
+APOCALYPSE NOW,1972,8.9,2352216,160,Mystery,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Rent ($3.99)
+AVENGERS: ENDGAME,2022,8.6,2003055,133,Sci-Fi,Yes,No,No,No,Yes,No,No,2,HBO Max,"HBO Max, Netflix",Free with Ads
+AVENGERS: INFINITY WAR,1973,9.2,1351768,154,Adventure,Yes,No,No,No,Yes,No,No,2,Netflix,"Netflix, HBO Max",Subscription/Rent
+BACK TO THE FUTURE,2017,9.0,2362319,115,Crime,No,No,No,No,No,Yes,Yes,2,Paramount+,"Paramount+, Apple TV+",Subscription/Rent
+BARRY LYNDON,1940,8.1,1622451,166,"Animation, Drama",No,No,Yes,No,Yes,No,Yes,3,Paramount+,"Paramount+, Hulu, HBO Max",Rent ($3.99)
+BATMAN BEGINS,1970,8.7,430331,97,Western,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Free with Ads
+BEFORE SUNRISE,2002,8.9,2406043,98,"Biography, Comedy, Fantasy",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription
+BEFORE SUNSET,1973,9.0,943688,157,"Romance, Thriller, Adventure",Yes,Yes,Yes,No,No,No,No,3,Amazon Prime,"Amazon Prime, Hulu, Netflix",Rent ($3.99)
+BEN-HUR,1991,8.6,1139791,175,"Crime, Animation, Adventure",No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Subscription
+BICYCLE THIEVES,1948,8.7,1023658,133,Horror,No,No,No,Yes,No,No,No,1,Disney+,Disney+,Free with Ads
+BLADE RUNNER,1949,9.2,1485917,180,"Drama, Thriller, Action",No,No,No,Yes,No,Yes,No,2,Disney+,"Disney+, Apple TV+",Free with Ads
+BRAVEHEART,2005,8.3,654956,120,"Mystery, Animation",No,Yes,Yes,No,No,No,No,2,Amazon Prime,"Amazon Prime, Hulu",Subscription/Rent
+CAPERNAUM,2013,8.6,1807333,150,Biography,No,Yes,No,No,No,Yes,No,2,Amazon Prime,"Amazon Prime, Apple TV+",Subscription
+CASABLANCA,1952,8.5,327210,102,"Romance, Crime, Western",No,No,No,No,No,Yes,Yes,2,Apple TV+,"Apple TV+, Paramount+",Free with Ads
+CASINO,1947,8.3,897793,141,"Crime, Biography, Action",Yes,Yes,No,No,Yes,No,No,3,Netflix,"Netflix, HBO Max, Amazon Prime",Subscription/Rent
+CATCH ME IF YOU CAN,1997,8.6,416187,107,"Comedy, Sci-Fi",No,Yes,No,No,No,Yes,Yes,3,Apple TV+,"Apple TV+, Amazon Prime, Paramount+",Buy ($14.99)
+CHILDREN OF HEAVEN,2010,9.3,161898,102,Mystery,No,No,Yes,Yes,No,No,No,2,Disney+,"Disney+, Hulu",Free with Ads
+CHINATOWN,1970,8.3,1782084,111,"Animation, Western",No,Yes,No,No,Yes,Yes,No,3,Apple TV+,"Apple TV+, HBO Max, Amazon Prime",Free with Ads
+CINEMA PARADISO,1961,8.3,2008443,138,Romance,Yes,Yes,Yes,No,No,No,No,3,Hulu,"Hulu, Netflix, Amazon Prime",Rent ($3.99)
+CITIZEN KANE,1994,8.9,749264,179,"Biography, Adventure, Mystery",No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Subscription
+CITY LIGHTS,1977,9.0,355674,117,Horror,No,No,Yes,Yes,No,No,No,2,Disney+,"Disney+, Hulu",Rent ($3.99)
+CITY OF GOD,1947,8.2,2229987,96,"Animation, Adventure, Fantasy",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Free with Ads
+COCO,1963,8.5,2489391,98,"Action, Mystery, Thriller",No,Yes,Yes,No,No,Yes,No,3,Apple TV+,"Apple TV+, Hulu, Amazon Prime",Subscription
+COME AND SEE,2014,8.1,2470733,166,Horror,No,No,No,Yes,No,Yes,Yes,3,Disney+,"Disney+, Paramount+, Apple TV+",Subscription/Rent
+DANGAL,1980,8.9,1101121,123,Mystery,No,No,Yes,No,No,No,No,1,Hulu,Hulu,Rent ($3.99)
+DAS BOOT,1990,8.4,404267,106,"Mystery, Sci-Fi, Animation",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Free with Ads
+DEAD POETS SOCIETY,1998,8.3,1212331,169,"Action, Western, Adventure",No,No,Yes,No,Yes,No,Yes,3,HBO Max,"HBO Max, Paramount+, Hulu",Subscription
+DEMON SLAYER: KIMETSU NO YAIBA - THE MOVIE: MUGEN TRAIN,1984,8.4,1937879,98,Crime,No,No,No,Yes,Yes,No,Yes,3,HBO Max,"HBO Max, Disney+, Paramount+",Subscription/Rent
+DEMON SLAYER: KIMETSU NO YAIBA- THE MOVIE - INFINITY CASTLE,1978,9.1,1355685,168,"Adventure, Drama, Mystery",No,Yes,Yes,No,No,No,No,2,Hulu,"Hulu, Amazon Prime",Free with Ads
+DIAL M FOR MURDER,1957,8.1,2420388,123,Western,No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Subscription
+DIE HARD,1974,8.3,1207228,126,"Thriller, War, Crime",Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Subscription/Rent
+DJANGO UNCHAINED,2002,8.8,1260480,122,Action,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Free with Ads
+DOUBLE INDEMNITY,1940,9.3,777723,132,Mystery,No,Yes,No,Yes,No,Yes,No,3,Amazon Prime,"Amazon Prime, Apple TV+, Disney+",Buy ($14.99)
+DOWNFALL,2010,8.1,725178,180,"Adventure, Drama",Yes,No,No,Yes,No,Yes,No,3,Netflix,"Netflix, Disney+, Apple TV+",Subscription/Rent
+DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB,1944,8.2,1392929,137,"Adventure, Comedy, Romance",No,No,Yes,Yes,Yes,No,No,3,Disney+,"Disney+, HBO Max, Hulu",Rent ($3.99)
+DRISHYAM,1945,8.3,531147,135,Mystery,Yes,No,No,No,No,Yes,Yes,3,Paramount+,"Paramount+, Netflix, Apple TV+",Rent ($3.99)
+DUNE: PART TWO,2011,9.1,842611,142,"War, Comedy, Thriller",No,No,Yes,No,Yes,Yes,No,3,HBO Max,"HBO Max, Hulu, Apple TV+",Buy ($14.99)
+ETERNAL SUNSHINE OF THE SPOTLESS MIND,1943,9.2,1140888,112,"Western, Crime, Biography",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Rent ($3.99)
+FARGO,1960,9.1,2074217,179,Romance,No,Yes,No,Yes,No,No,No,2,Amazon Prime,"Amazon Prime, Disney+",Subscription
+FIGHT CLUB,1965,9.0,1054604,148,"Sci-Fi, Fantasy",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+FINDING NEMO,1943,8.4,391171,174,Romance,No,Yes,Yes,No,Yes,No,No,3,Hulu,"Hulu, HBO Max, Amazon Prime",Rent ($3.99)
+FOR A FEW DOLLARS MORE,1984,8.4,215765,172,"Romance, Mystery, Adventure",Yes,No,Yes,No,No,Yes,No,3,Netflix,"Netflix, Apple TV+, Hulu",Free with Ads
+FORD V FERRARI,1973,8.8,1549916,112,"Sci-Fi, Drama, Action",No,Yes,No,No,Yes,No,Yes,3,HBO Max,"HBO Max, Paramount+, Amazon Prime",Rent ($3.99)
+FORREST GUMP,1995,8.2,286170,167,"Action, Romance, Horror",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Buy ($14.99)
+FULL METAL JACKET,1940,9.0,926425,156,"Mystery, War, Fantasy",No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Rent ($3.99)
+GANGS OF WASSEYPUR,1995,8.4,622716,98,"Western, Crime, Horror",Yes,No,Yes,No,Yes,No,No,3,Netflix,"Netflix, HBO Max, Hulu",Rent ($3.99)
+GLADIATOR,2004,8.9,2425374,129,"Romance, Crime, Western",Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Subscription
+GONE GIRL,1964,9.2,2487000,143,"Romance, Mystery, War",No,No,Yes,No,No,No,Yes,2,Paramount+,"Paramount+, Hulu",Rent ($3.99)
+GONE WITH THE WIND,1991,8.4,1903081,160,Sci-Fi,Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+GOOD WILL HUNTING,2017,8.6,996328,173,"Animation, Western",No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Subscription/Rent
+GOODFELLAS,2000,8.9,1505881,111,"Action, Sci-Fi, Adventure",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Free with Ads
+GRAN TORINO,1970,8.3,202447,176,"Thriller, Biography",Yes,No,No,Yes,Yes,No,No,3,Disney+,"Disney+, Netflix, HBO Max",Free with Ads
+GRAVE OF THE FIREFLIES,1971,8.6,915520,150,"Fantasy, Biography, Action",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Buy ($14.99)
+GREEN BOOK,2003,8.9,123256,141,Comedy,No,Yes,No,Yes,Yes,No,No,3,Disney+,"Disney+, HBO Max, Amazon Prime",Free with Ads
+HACHI: A DOG'S TALE,1994,9.2,2272472,118,Biography,No,No,No,No,Yes,No,Yes,2,HBO Max,"HBO Max, Paramount+",Buy ($14.99)
+HACKSAW RIDGE,1946,9.1,2014539,161,Western,No,Yes,No,No,Yes,No,No,2,Amazon Prime,"Amazon Prime, HBO Max",Subscription
+HAMILTON,1999,9.2,1956287,175,"Adventure, Horror, Crime",No,Yes,Yes,No,No,Yes,No,3,Apple TV+,"Apple TV+, Amazon Prime, Hulu",Subscription/Rent
+HARAKIRI,2004,9.1,1987729,144,"Animation, Comedy, War",No,No,No,No,No,Yes,Yes,2,Apple TV+,"Apple TV+, Paramount+",Rent ($3.99)
+HARRY POTTER AND THE DEATHLY HALLOWS: PART 2,1971,8.7,1103469,171,"Biography, Western",No,No,No,Yes,Yes,No,No,2,Disney+,"Disney+, HBO Max",Rent ($3.99)
+HEAT,1996,8.4,2365562,99,"Sci-Fi, Thriller, Western",Yes,Yes,No,No,No,No,No,2,Netflix,"Netflix, Amazon Prime",Free with Ads
+HIGH AND LOW,1957,8.9,997383,109,Romance,Yes,No,No,No,No,No,No,1,Netflix,Netflix,Free with Ads
+HOTEL RWANDA,1993,8.5,967526,142,"Adventure, Animation",Yes,No,No,No,Yes,No,No,2,Netflix,"Netflix, HBO Max",Buy ($14.99)
+HOW TO TRAIN YOUR DRAGON,1989,8.7,2100598,164,"Drama, Fantasy, Biography",No,Yes,No,No,Yes,No,Yes,3,Amazon Prime,"Amazon Prime, HBO Max, Paramount+",Free with Ads
+HOWL'S MOVING CASTLE,1985,8.5,2390644,128,"Fantasy, Western",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+IKIRU,1968,8.6,221738,152,Sci-Fi,Yes,Yes,No,No,No,Yes,No,3,Apple TV+,"Apple TV+, Netflix, Amazon Prime",Buy ($14.99)
+IN THE NAME OF THE FATHER,1983,8.2,2060376,175,"Biography, Romance, War",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription
+INCENDIES,2019,8.5,2467231,158,Western,Yes,No,No,No,Yes,No,No,2,Netflix,"Netflix, HBO Max",Free with Ads
+INCEPTION,1950,8.6,310909,172,"Comedy, Fantasy",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Rent ($3.99)
+INDIANA JONES AND THE LAST CRUSADE,1988,8.4,1690170,131,Animation,No,Yes,No,Yes,Yes,No,No,3,Disney+,"Disney+, Amazon Prime, HBO Max",Rent ($3.99)
+INGLOURIOUS BASTERDS,1993,8.0,2362487,122,Animation,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Free with Ads
+INSIDE OUT,1984,8.1,230149,118,"Action, Biography, Mystery",No,Yes,No,Yes,Yes,No,No,3,HBO Max,"HBO Max, Disney+, Amazon Prime",Subscription
+INTERSTELLAR,1965,8.6,579784,92,"Comedy, Thriller, Western",No,No,No,Yes,No,No,Yes,2,Paramount+,"Paramount+, Disney+",Subscription/Rent
+IT'S A WONDERFUL LIFE,1967,8.2,580385,149,"Sci-Fi, Biography, Crime",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription
+JAI BHIM,1979,8.9,1674151,103,"Drama, Sci-Fi, Horror",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Buy ($14.99)
+JAWS,1965,8.3,1364929,99,"War, Fantasy, Mystery",No,No,Yes,Yes,No,No,No,2,Hulu,"Hulu, Disney+",Subscription/Rent
+JOKER,1955,8.7,1654286,162,Crime,No,No,No,Yes,No,Yes,No,2,Disney+,"Disney+, Apple TV+",Free with Ads
+JUDGMENT AT NUREMBERG,2004,8.5,2156054,172,"Drama, Fantasy",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Free with Ads
+JURASSIC PARK,1995,8.9,1926565,136,"Western, Fantasy, Animation",Yes,No,No,No,No,Yes,Yes,3,Apple TV+,"Apple TV+, Netflix, Paramount+",Subscription
+KILL BILL: VOL. 1,2006,9.2,2127935,173,"Horror, Biography",No,No,Yes,No,No,Yes,No,2,Apple TV+,"Apple TV+, Hulu",Buy ($14.99)
+KLAUS,1995,8.3,463490,165,"Crime, Fantasy",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+L.A. CONFIDENTIAL,1997,8.9,1510949,121,"Horror, Western",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Free with Ads
+LA HAINE,2003,8.3,1183608,131,Animation,No,Yes,No,Yes,No,No,Yes,3,Disney+,"Disney+, Amazon Prime, Paramount+",Rent ($3.99)
+LAWRENCE OF ARABIA,1975,8.0,901348,166,"Western, Sci-Fi, Adventure",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Free with Ads
+LIFE IS BEAUTIFUL,1970,8.3,2096879,142,"Adventure, Biography",Yes,Yes,No,No,No,No,No,2,Amazon Prime,"Amazon Prime, Netflix",Buy ($14.99)
+LIKE STARS ON EARTH,1997,8.3,1120495,92,Sci-Fi,No,No,No,No,Yes,No,Yes,2,Paramount+,"Paramount+, HBO Max",Rent ($3.99)
+"LOCK, STOCK AND TWO SMOKING BARRELS",2024,8.7,1884692,164,"Animation, Adventure",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+LOGAN,1982,8.3,606067,135,"Animation, Sci-Fi, Fantasy",Yes,No,No,No,Yes,Yes,No,3,HBO Max,"HBO Max, Netflix, Apple TV+",Subscription
+LÉON: THE PROFESSIONAL,1980,8.2,1007582,105,"Adventure, Biography, War",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Buy ($14.99)
+M,1975,9.1,1342547,165,"Horror, Sci-Fi, Action",No,No,No,Yes,No,No,Yes,2,Disney+,"Disney+, Paramount+",Subscription
+MAD MAX: FURY ROAD,1986,8.7,1250545,112,"Drama, War",No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Free with Ads
+MAHARAJA,1946,8.8,2158894,160,"War, Comedy",Yes,Yes,No,No,No,No,No,2,Netflix,"Netflix, Amazon Prime",Free with Ads
+MARY AND MAX,1941,8.6,873277,163,"Animation, Western",Yes,No,No,Yes,No,No,No,2,Netflix,"Netflix, Disney+",Free with Ads
+MEMENTO,1972,8.1,2162534,151,Fantasy,No,No,No,Yes,No,No,Yes,2,Paramount+,"Paramount+, Disney+",Free with Ads
+MEMORIES OF MURDER,2013,9.1,1374378,170,"Drama, Comedy, Fantasy",No,No,No,Yes,No,Yes,No,2,Disney+,"Disney+, Apple TV+",Free with Ads
+METROPOLIS,1971,8.8,1046600,105,"Biography, Romance, Horror",No,No,No,Yes,Yes,No,Yes,3,Paramount+,"Paramount+, HBO Max, Disney+",Subscription/Rent
+MILLION DOLLAR BABY,1988,8.8,1898642,147,"Sci-Fi, Fantasy",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+MODERN TIMES,2012,9.2,516215,169,Horror,Yes,Yes,No,No,No,No,No,2,Amazon Prime,"Amazon Prime, Netflix",Subscription
+"MONSTERS, INC.",2020,8.2,829026,117,"Mystery, Action",Yes,No,No,No,Yes,Yes,No,3,Apple TV+,"Apple TV+, HBO Max, Netflix",Subscription/Rent
+MONTY PYTHON AND THE HOLY GRAIL,1949,8.6,2070955,110,Romance,Yes,No,Yes,No,No,Yes,No,3,Hulu,"Hulu, Netflix, Apple TV+",Rent ($3.99)
+MR. SMITH GOES TO WASHINGTON,1944,8.9,2004345,119,"War, Sci-Fi",No,No,No,Yes,Yes,Yes,No,3,Disney+,"Disney+, HBO Max, Apple TV+",Free with Ads
+MY FATHER AND MY SON,1969,9.2,1883162,123,"Horror, Mystery, Biography",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Free with Ads
+MY NEIGHBOR TOTORO,2009,8.1,795930,118,"Comedy, Sci-Fi, Western",Yes,Yes,No,No,No,No,Yes,3,Netflix,"Netflix, Amazon Prime, Paramount+",Rent ($3.99)
+NETWORK,2016,8.6,1375450,162,"Animation, Action",Yes,Yes,No,No,No,Yes,No,3,Netflix,"Netflix, Apple TV+, Amazon Prime",Buy ($14.99)
+NO COUNTRY FOR OLD MEN,1974,8.8,1912059,154,"Animation, Western, Action",Yes,No,No,No,Yes,No,No,2,Netflix,"Netflix, HBO Max",Rent ($3.99)
+NORTH BY NORTHWEST,2017,8.3,187012,122,Action,No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Rent ($3.99)
+OLDBOY,2013,8.7,1954844,95,Animation,Yes,No,No,No,Yes,No,Yes,3,Netflix,"Netflix, HBO Max, Paramount+",Rent ($3.99)
+ON THE WATERFRONT,1963,8.6,482698,164,"Mystery, Fantasy",No,No,No,No,Yes,Yes,No,2,Apple TV+,"Apple TV+, HBO Max",Buy ($14.99)
+ONCE UPON A TIME IN AMERICA,1984,8.1,774548,142,"Crime, Mystery",No,No,Yes,No,Yes,Yes,No,3,HBO Max,"HBO Max, Hulu, Apple TV+",Rent ($3.99)
+ONCE UPON A TIME IN THE WEST,1992,9.2,2407272,178,"Sci-Fi, Mystery",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Free with Ads
+ONE BATTLE AFTER ANOTHER,1998,8.2,1795233,101,"Sci-Fi, Crime",No,Yes,Yes,No,No,No,Yes,3,Hulu,"Hulu, Amazon Prime, Paramount+",Subscription/Rent
+ONE FLEW OVER THE CUCKOO'S NEST,1940,8.2,1617412,174,"Animation, Romance, Drama",No,Yes,No,No,No,Yes,No,2,Amazon Prime,"Amazon Prime, Apple TV+",Subscription/Rent
+OPPENHEIMER,2003,8.3,2403594,170,"Biography, Drama",No,No,Yes,Yes,No,No,Yes,3,Hulu,"Hulu, Disney+, Paramount+",Subscription
+PAN'S LABYRINTH,1976,9.3,1103686,146,"Animation, Action, Drama",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription
+PARASITE,1979,8.5,1042462,160,Adventure,No,No,No,No,Yes,No,Yes,2,HBO Max,"HBO Max, Paramount+",Free with Ads
+PATHS OF GLORY,1999,9.2,1324156,105,"Fantasy, Comedy, Animation",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+PIRATES OF THE CARIBBEAN: THE CURSE OF THE BLACK PEARL,1974,8.6,706672,143,"Animation, Thriller",No,Yes,Yes,No,Yes,No,No,3,Amazon Prime,"Amazon Prime, HBO Max, Hulu",Buy ($14.99)
+PLATOON,1964,8.4,1840394,166,"War, Comedy, Action",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Rent ($3.99)
+PRINCESS MONONOKE,2004,8.9,2153700,124,Sci-Fi,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Subscription
+PRISONERS,1997,8.7,2379310,158,"Crime, Western",No,Yes,Yes,No,No,No,No,2,Hulu,"Hulu, Amazon Prime",Buy ($14.99)
+PSYCHO,1998,8.3,1706296,131,War,No,No,No,No,Yes,No,Yes,2,Paramount+,"Paramount+, HBO Max",Subscription
+PULP FICTION,1992,8.9,1698999,95,"War, Animation",No,No,Yes,No,Yes,Yes,No,3,Hulu,"Hulu, HBO Max, Apple TV+",Buy ($14.99)
+RAGING BULL,2024,9.3,629515,173,Animation,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription/Rent
+RAIDERS OF THE LOST ARK,2015,9.1,518221,132,Fantasy,Yes,No,Yes,No,No,Yes,No,3,Hulu,"Hulu, Apple TV+, Netflix",Subscription/Rent
+RAN,1998,9.3,413852,91,"Comedy, Romance, Mystery",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Buy ($14.99)
+RASHOMON,1973,8.1,1478103,133,"War, Romance, Mystery",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+RATATOUILLE,1988,9.1,250571,130,"War, Biography, Animation",No,Yes,Yes,No,Yes,No,No,3,HBO Max,"HBO Max, Amazon Prime, Hulu",Subscription/Rent
+REAR WINDOW,1948,9.0,1920208,120,"Mystery, Sci-Fi, Thriller",No,Yes,No,No,Yes,No,No,2,HBO Max,"HBO Max, Amazon Prime",Free with Ads
+REQUIEM FOR A DREAM,2021,8.2,1356051,180,Animation,No,Yes,Yes,No,No,No,Yes,3,Hulu,"Hulu, Amazon Prime, Paramount+",Free with Ads
+RESERVOIR DOGS,1945,8.5,1906431,131,Sci-Fi,Yes,No,Yes,Yes,No,No,No,3,Disney+,"Disney+, Hulu, Netflix",Subscription
+ROCKY,1971,9.0,812963,157,"Horror, Mystery",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+ROOM,1950,8.3,700279,168,"Horror, Mystery",No,No,Yes,No,No,No,Yes,2,Paramount+,"Paramount+, Hulu",Subscription
+RUSH,1999,8.9,2051413,171,"Animation, Sci-Fi",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Rent ($3.99)
+SAVING PRIVATE RYAN,2009,9.2,1354743,110,Animation,No,Yes,No,No,No,No,Yes,2,Paramount+,"Paramount+, Amazon Prime",Buy ($14.99)
+SCARFACE,1972,9.1,547336,148,"Thriller, Romance",No,Yes,Yes,Yes,No,No,No,3,Hulu,"Hulu, Amazon Prime, Disney+",Subscription
+SCHINDLER'S LIST,1988,9.3,1338287,163,"Horror, Sci-Fi",No,No,No,Yes,Yes,Yes,No,3,Apple TV+,"Apple TV+, Disney+, HBO Max",Free with Ads
+SE7EN,2024,9.1,305706,140,"Drama, Horror",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+SEVEN SAMURAI,2003,9.0,1018571,126,Horror,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+SHERLOCK JR.,2019,8.9,673693,122,"Biography, War, Western",No,No,No,No,Yes,No,No,1,HBO Max,HBO Max,Free with Ads
+SHUTTER ISLAND,2020,9.0,239940,172,Sci-Fi,No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Subscription/Rent
+SINGIN' IN THE RAIN,1986,8.4,1842746,106,Western,No,No,No,No,Yes,No,Yes,2,HBO Max,"HBO Max, Paramount+",Subscription
+SNATCH,1965,8.7,1243062,106,"Western, Crime, Adventure",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Subscription
+SOME LIKE IT HOT,1972,8.4,583056,151,"War, Fantasy",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Buy ($14.99)
+SPIDER-MAN: ACROSS THE SPIDER-VERSE,1949,8.9,1766864,108,Fantasy,Yes,No,Yes,No,No,No,No,2,Hulu,"Hulu, Netflix",Subscription/Rent
+SPIDER-MAN: INTO THE SPIDER-VERSE,1986,8.7,2007510,101,"Drama, Sci-Fi",No,Yes,No,No,No,Yes,No,2,Amazon Prime,"Amazon Prime, Apple TV+",Rent ($3.99)
+SPIDER-MAN: NO WAY HOME,1973,9.2,554436,164,"Fantasy, Mystery",No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+SPIRITED AWAY,2000,9.2,1028481,93,"Western, Adventure, Crime",No,No,Yes,No,No,No,No,1,Hulu,Hulu,Free with Ads
+SPOTLIGHT,2021,8.2,290198,149,"Sci-Fi, Mystery, Romance",No,No,No,Yes,Yes,No,Yes,3,Paramount+,"Paramount+, Disney+, HBO Max",Free with Ads
+STAND BY ME,1978,8.3,2354633,153,Action,No,Yes,No,No,No,Yes,Yes,3,Amazon Prime,"Amazon Prime, Paramount+, Apple TV+",Subscription
+STAR WARS: EPISODE IV - A NEW HOPE,1989,8.9,2365731,148,"Mystery, War",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Buy ($14.99)
+STAR WARS: EPISODE V - THE EMPIRE STRIKES BACK,2015,9.1,1811762,109,"Mystery, Action",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+STAR WARS: EPISODE VI - RETURN OF THE JEDI,1944,8.6,1090328,178,"Thriller, Animation",No,Yes,Yes,Yes,No,No,No,3,Hulu,"Hulu, Disney+, Amazon Prime",Rent ($3.99)
+SUNSET BOULEVARD,1952,8.5,1769918,177,"Adventure, Mystery",No,Yes,No,No,No,Yes,No,2,Amazon Prime,"Amazon Prime, Apple TV+",Rent ($3.99)
+TAXI DRIVER,1964,8.3,189579,105,"Action, Mystery",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Free with Ads
+TERMINATOR 2: JUDGMENT DAY,1982,8.7,387771,121,Biography,No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Subscription/Rent
+THE APARTMENT,1966,9.1,1478078,165,Fantasy,No,Yes,No,No,No,No,Yes,2,Amazon Prime,"Amazon Prime, Paramount+",Subscription
+THE BATTLE OF ALGIERS,2016,9.3,2365827,90,"Fantasy, Comedy",No,No,Yes,No,No,No,Yes,2,Hulu,"Hulu, Paramount+",Rent ($3.99)
+THE BEST YEARS OF OUR LIVES,1962,8.0,1097957,104,"Fantasy, Drama, Comedy",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Subscription/Rent
+THE BEST OF YOUTH,1981,8.1,1865636,92,Sci-Fi,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription/Rent
+THE BIG LEBOWSKI,1954,8.5,557405,98,"Animation, Biography",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Buy ($14.99)
+THE BRIDGE ON THE RIVER KWAI,2004,9.2,2287124,118,"Drama, War, Biography",Yes,No,Yes,No,No,No,No,2,Hulu,"Hulu, Netflix",Rent ($3.99)
+THE CHAOS CLASS FAILED THE CLASS,1998,9.3,1784504,172,Drama,No,No,Yes,No,No,Yes,No,2,Hulu,"Hulu, Apple TV+",Buy ($14.99)
+THE DARK KNIGHT,1953,9.2,1451034,152,"Western, Animation, Action",No,No,No,Yes,Yes,Yes,No,3,Disney+,"Disney+, Apple TV+, HBO Max",Subscription/Rent
+THE DARK KNIGHT RISES,1958,8.8,2399973,98,Sci-Fi,Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Rent ($3.99)
+THE DEER HUNTER,1988,8.8,515984,166,"Sci-Fi, Animation, Adventure",No,Yes,No,No,Yes,No,No,2,Amazon Prime,"Amazon Prime, HBO Max",Free with Ads
+THE DEPARTED,2023,8.6,1058371,173,"War, Fantasy, Thriller",Yes,No,No,No,No,No,Yes,2,Netflix,"Netflix, Paramount+",Buy ($14.99)
+THE ELEPHANT MAN,1983,8.1,1889977,148,"Romance, War",No,No,Yes,Yes,No,Yes,No,3,Disney+,"Disney+, Hulu, Apple TV+",Rent ($3.99)
+THE EXORCIST,1972,9.2,381577,137,Mystery,No,No,No,No,Yes,No,Yes,2,HBO Max,"HBO Max, Paramount+",Free with Ads
+THE FATHER,1950,9.0,645743,101,"Action, War",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Subscription/Rent
+THE GENERAL,1947,8.2,1583097,165,"Adventure, Crime, Mystery",Yes,Yes,Yes,No,No,No,No,3,Amazon Prime,"Amazon Prime, Hulu, Netflix",Buy ($14.99)
+THE GODFATHER,1946,8.8,992291,126,"Sci-Fi, Crime, Action",Yes,No,No,Yes,Yes,No,No,3,Disney+,"Disney+, Netflix, HBO Max",Subscription
+THE GODFATHER PART II,2024,8.1,2433146,151,Fantasy,No,Yes,No,No,No,Yes,Yes,3,Apple TV+,"Apple TV+, Paramount+, Amazon Prime",Rent ($3.99)
+THE GOLD RUSH,1954,9.1,2435135,125,"Thriller, Biography, Romance",Yes,No,No,Yes,No,No,No,2,Disney+,"Disney+, Netflix",Free with Ads
+"THE GOOD, THE BAD AND THE UGLY",2017,8.4,1395975,174,"Sci-Fi, Drama, Comedy",No,No,Yes,No,Yes,No,Yes,3,Hulu,"Hulu, HBO Max, Paramount+",Rent ($3.99)
+THE GRAND BUDAPEST HOTEL,1984,8.2,1781011,90,Fantasy,Yes,No,Yes,No,No,No,Yes,3,Paramount+,"Paramount+, Netflix, Hulu",Free with Ads
+THE GRAPES OF WRATH,1958,9.0,1002332,171,Action,No,No,Yes,Yes,No,Yes,No,3,Hulu,"Hulu, Apple TV+, Disney+",Buy ($14.99)
+THE GREAT DICTATOR,1993,8.4,1460560,148,"Comedy, Crime",No,No,No,Yes,No,Yes,No,2,Disney+,"Disney+, Apple TV+",Subscription/Rent
+THE GREAT ESCAPE,2016,8.2,308719,100,Comedy,No,Yes,No,No,Yes,No,No,2,HBO Max,"HBO Max, Amazon Prime",Free with Ads
+THE GREEN MILE,1974,8.6,1245744,146,"Romance, Animation, Horror",No,No,No,Yes,No,No,No,1,Disney+,Disney+,Subscription
+THE HANDMAIDEN,2005,8.4,2141085,104,"Romance, Action",No,Yes,No,Yes,No,Yes,No,3,Disney+,"Disney+, Apple TV+, Amazon Prime",Subscription/Rent
+THE HELP,1979,9.3,329772,95,Romance,No,No,Yes,Yes,Yes,No,No,3,HBO Max,"HBO Max, Hulu, Disney+",Free with Ads
+THE HUNT,1966,8.2,1171726,128,Biography,Yes,No,Yes,No,No,No,Yes,3,Paramount+,"Paramount+, Netflix, Hulu",Rent ($3.99)
+THE INCREDIBLES,1981,9.0,836917,105,Animation,No,Yes,No,Yes,No,No,No,2,Amazon Prime,"Amazon Prime, Disney+",Subscription
+THE INTOUCHABLES,1988,9.1,1585484,158,"Thriller, Adventure, Fantasy",No,No,Yes,No,Yes,Yes,No,3,HBO Max,"HBO Max, Apple TV+, Hulu",Free with Ads
+THE IRON GIANT,1990,9.2,1413071,95,"Drama, Animation",No,No,No,Yes,No,No,Yes,2,Disney+,"Disney+, Paramount+",Subscription/Rent
+THE KID,1994,8.5,583072,163,"War, Mystery",No,Yes,No,Yes,Yes,No,No,3,Amazon Prime,"Amazon Prime, HBO Max, Disney+",Buy ($14.99)
+THE LION KING,1942,9.2,2029786,131,Biography,Yes,Yes,No,No,No,Yes,No,3,Amazon Prime,"Amazon Prime, Apple TV+, Netflix",Rent ($3.99)
+THE LIVES OF OTHERS,1951,8.6,1779608,145,Thriller,No,No,No,No,Yes,Yes,No,2,HBO Max,"HBO Max, Apple TV+",Subscription/Rent
+THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING,1950,8.3,805199,140,"War, Crime",Yes,No,Yes,No,Yes,No,No,3,HBO Max,"HBO Max, Hulu, Netflix",Free with Ads
+THE LORD OF THE RINGS: THE RETURN OF THE KING,2005,8.7,1565386,171,Adventure,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Rent ($3.99)
+THE LORD OF THE RINGS: THE TWO TOWERS,2022,8.2,927417,108,Action,No,Yes,No,No,No,No,Yes,2,Amazon Prime,"Amazon Prime, Paramount+",Subscription
+THE MATRIX,2017,8.8,2045960,109,"Action, Comedy, Biography",Yes,No,No,No,No,No,No,1,Netflix,Netflix,Subscription/Rent
+THE PASSION OF JOAN OF ARC,2014,8.8,1455633,147,"Western, Horror, Mystery",No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+THE PIANIST,1959,8.6,1370120,146,Animation,Yes,No,No,No,Yes,No,No,2,HBO Max,"HBO Max, Netflix",Rent ($3.99)
+THE PRESTIGE,2015,8.4,1995464,97,"Adventure, Action",No,No,No,Yes,No,Yes,No,2,Disney+,"Disney+, Apple TV+",Free with Ads
+THE SECRET IN THEIR EYES,1947,9.1,478730,137,"Action, Mystery",No,Yes,No,Yes,No,Yes,No,3,Amazon Prime,"Amazon Prime, Apple TV+, Disney+",Subscription/Rent
+THE SEVENTH SEAL,2016,8.7,272061,154,"Animation, Horror",No,Yes,No,Yes,No,No,No,2,Disney+,"Disney+, Amazon Prime",Buy ($14.99)
+THE SHAWSHANK REDEMPTION,2013,8.8,2202886,173,Crime,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Subscription
+THE SHINING,1947,9.2,1540482,147,Biography,Yes,No,No,Yes,No,No,Yes,3,Netflix,"Netflix, Paramount+, Disney+",Free with Ads
+THE SILENCE OF THE LAMBS,2004,8.3,1936091,172,Drama,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Buy ($14.99)
+THE SIXTH SENSE,2007,9.2,1724942,156,"Comedy, Crime, Fantasy",Yes,No,No,Yes,Yes,No,No,3,HBO Max,"HBO Max, Disney+, Netflix",Buy ($14.99)
+THE SOUND OF MUSIC,1983,8.8,376454,176,"Drama, Biography, Mystery",Yes,Yes,No,Yes,No,No,No,3,Amazon Prime,"Amazon Prime, Netflix, Disney+",Rent ($3.99)
+THE STING,1952,8.9,730711,161,"Romance, Sci-Fi, Fantasy",No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Rent ($3.99)
+THE TERMINATOR,1950,9.3,1743990,164,"Comedy, Crime, Sci-Fi",No,No,No,No,Yes,Yes,No,2,Apple TV+,"Apple TV+, HBO Max",Subscription
+THE THING,2016,8.7,1477730,180,Sci-Fi,No,No,Yes,Yes,Yes,No,No,3,HBO Max,"HBO Max, Hulu, Disney+",Subscription
+THE THIRD MAN,2007,8.5,1620844,101,"Mystery, Romance, Adventure",No,No,No,No,Yes,Yes,Yes,3,Paramount+,"Paramount+, Apple TV+, HBO Max",Rent ($3.99)
+THE TREASURE OF THE SIERRA MADRE,1963,8.2,676990,117,"Biography, Animation",No,No,No,No,Yes,No,Yes,2,Paramount+,"Paramount+, HBO Max",Subscription
+THE TRUMAN SHOW,1949,9.0,2308433,127,Adventure,No,Yes,No,No,No,Yes,No,2,Amazon Prime,"Amazon Prime, Apple TV+",Free with Ads
+THE USUAL SUSPECTS,2024,8.2,858522,133,"Comedy, Horror, Romance",No,No,Yes,Yes,No,No,No,2,Disney+,"Disney+, Hulu",Subscription/Rent
+THE WAGES OF FEAR,1961,8.5,1096273,146,Romance,No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Buy ($14.99)
+THE WILD ROBOT,2018,8.7,1398002,126,"Biography, Animation, Thriller",No,No,Yes,Yes,Yes,No,No,3,Hulu,"Hulu, HBO Max, Disney+",Buy ($14.99)
+THE WIZARD OF OZ,1964,9.0,1701689,137,"Horror, Animation, Fantasy",No,Yes,Yes,Yes,No,No,No,3,Amazon Prime,"Amazon Prime, Hulu, Disney+",Subscription/Rent
+THE WOLF OF WALL STREET,2007,8.3,680485,143,Fantasy,No,No,No,No,No,Yes,No,1,Apple TV+,Apple TV+,Rent ($3.99)
+THERE WILL BE BLOOD,1946,8.7,530292,172,"Fantasy, Crime",No,Yes,Yes,No,No,No,No,2,Amazon Prime,"Amazon Prime, Hulu",Subscription/Rent
+"THREE BILLBOARDS OUTSIDE EBBING, MISSOURI",1955,8.2,1984581,126,Biography,No,No,Yes,No,Yes,No,No,2,Hulu,"Hulu, HBO Max",Subscription/Rent
+TO BE OR NOT TO BE,1958,8.3,1992167,145,Western,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Rent ($3.99)
+TO KILL A MOCKINGBIRD,1943,8.7,1088924,143,Romance,No,Yes,No,No,No,No,No,1,Amazon Prime,Amazon Prime,Buy ($14.99)
+TOKYO STORY,1950,8.4,515584,137,Drama,No,Yes,No,No,No,Yes,No,2,Apple TV+,"Apple TV+, Amazon Prime",Rent ($3.99)
+TOP GUN: MAVERICK,1958,9.2,2081619,107,Sci-Fi,Yes,Yes,No,Yes,No,No,No,3,Amazon Prime,"Amazon Prime, Netflix, Disney+",Subscription
+TOY STORY,2000,8.3,727130,147,"Drama, Action, Western",No,No,Yes,No,Yes,No,No,2,Hulu,"Hulu, HBO Max",Subscription/Rent
+TOY STORY 3,2017,8.4,1363119,157,"Action, Biography",Yes,No,No,Yes,No,No,No,2,Disney+,"Disney+, Netflix",Free with Ads
+TRAINSPOTTING,1946,8.8,363432,120,"Mystery, Biography",No,No,No,No,No,No,Yes,1,Paramount+,Paramount+,Free with Ads
+UNFORGIVEN,2003,8.7,702204,166,"Drama, Mystery, Adventure",No,No,No,Yes,Yes,No,No,2,Disney+,"Disney+, HBO Max",Rent ($3.99)
+UP,1994,8.5,459090,90,"Crime, Thriller, Horror",Yes,No,No,Yes,Yes,No,No,3,Netflix,"Netflix, HBO Max, Disney+",Subscription/Rent
+V FOR VENDETTA,1986,9.3,2424281,98,"Adventure, Western, Biography",Yes,No,Yes,No,No,No,No,2,Netflix,"Netflix, Hulu",Free with Ads
+VERTIGO,1989,8.5,1665743,150,Mystery,No,No,No,Yes,No,No,Yes,2,Paramount+,"Paramount+, Disney+",Rent ($3.99)
+WALL·E,1942,8.3,534797,135,Crime,No,No,No,No,Yes,Yes,No,2,HBO Max,"HBO Max, Apple TV+",Subscription/Rent
+WARRIOR,1982,8.7,834377,107,Crime,No,Yes,No,No,Yes,No,Yes,3,HBO Max,"HBO Max, Paramount+, Amazon Prime",Buy ($14.99)
+WHIPLASH,2001,8.2,2019647,170,Biography,No,Yes,Yes,No,No,No,No,2,Amazon Prime,"Amazon Prime, Hulu",Free with Ads
+WILD STRAWBERRIES,1977,8.3,275766,115,Biography,Yes,No,No,Yes,No,No,No,2,Disney+,"Disney+, Netflix",Rent ($3.99)
+WILD TALES,1979,8.6,253598,155,"Fantasy, Adventure",No,No,Yes,No,No,Yes,No,2,Hulu,"Hulu, Apple TV+",Subscription
+WITNESS FOR THE PROSECUTION,1976,8.9,1245953,135,Fantasy,No,Yes,No,Yes,No,No,Yes,3,Paramount+,"Paramount+, Disney+, Amazon Prime",Free with Ads
+YOJIMBO,1987,9.2,1721705,145,"War, Animation",No,Yes,No,No,Yes,No,No,2,Amazon Prime,"Amazon Prime, HBO Max",Rent ($3.99)
+YOUR NAME.,1963,8.7,446497,153,"Animation, Crime, Biography",Yes,No,No,Yes,Yes,No,No,3,Netflix,"Netflix, Disney+, HBO Max",Buy ($14.99)
